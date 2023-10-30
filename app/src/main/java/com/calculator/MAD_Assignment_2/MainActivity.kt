@@ -15,15 +15,15 @@ class MainActivity : AppCompatActivity() {
         //Number listeners
         btn00.setOnClickListener { appendOnClick(true, "00") }
         btn0.setOnClickListener { appendOnClick(true, "0") }
-        btn1.setOnClickListener { appendOnClick(true, "1") }
-        btn2.setOnClickListener { appendOnClick(true, "2") }
-        btn3.setOnClickListener { appendOnClick(true, "3") }
+        btn1.setOnClickListener { appendOnClick(true, "7") }
+        btn2.setOnClickListener { appendOnClick(true, "8") }
+        btn3.setOnClickListener { appendOnClick(true, "9") }
         btn4.setOnClickListener { appendOnClick(true, "4") }
         btn5.setOnClickListener { appendOnClick(true, "5") }
         btn6.setOnClickListener { appendOnClick(true, "6") }
-        btn7.setOnClickListener { appendOnClick(true, "7") }
-        btn8.setOnClickListener { appendOnClick(true, "8") }
-        btn9.setOnClickListener { appendOnClick(true, "9") }
+        btn7.setOnClickListener { appendOnClick(true, "1") }
+        btn8.setOnClickListener { appendOnClick(true, "2") }
+        btn9.setOnClickListener { appendOnClick(true, "3") }
         btnDot.setOnClickListener { appendOnClick(true, ".") }
 
 
