@@ -18,3 +18,12 @@ digits 0-9, arithmetic operators (+, -, *, /), a clear button (C), and an equals
 ![Screenshot 2023-10-31 074308](https://github.com/Rushi-7070/MAD_Assignment-2/assets/97504709/10c4b14e-9992-4d95-be44-ba5a987a2967)
 
 
+
+
+![image](https://github.com/Rushi-7070/MAD_Assignment-2/assets/97504709/4a4f339f-4e51-4b0e-bf3e-d8f928c341a6)        ![image](https://github.com/Rushi-7070/MAD_Assignment-2/assets/97504709/415ad6d9-59ff-4a62-8563-124b4b4abaaa)
+
+
+
+
+
+
